@@ -27,7 +27,7 @@
 
 **PT-BR**
 
-Olá! Sou **Lucas Neves**, formando em **Pentest** pela DESEC Security com foco em **Red Team**, **Web Hacking** e **OSINT**.
+Olá! Sou **Lucas Neves**, formando em **Red Teams Operations** pela FIAP com foco em **Pentest**, **Web Hacking** e **OSINT**.
 
 Apaixonado por segurança ofensiva, construo ferramentas open-source para a comunidade e estudo continuamente através de labs práticos e CTFs.
 
@@ -41,7 +41,7 @@ Apaixonado por segurança ofensiva, construo ferramentas open-source para a comu
 
 **EN**
 
-Hi! I'm **Lucas Neves**, a Pentest graduate from DESEC Security focused on **Red Team**, **Web Hacking**, and **OSINT**.
+Hi! I'm **Lucas Neves**, a Red Team Analyst graduate from FIAP focused on **Pentest**, **Web Hacking**, and **OSINT**.
 
 Passionate about offensive security — I build open-source tools for the community and continuously improve through hands-on labs and CTFs.
 
