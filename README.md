@@ -165,22 +165,6 @@ Passionate about offensive security — I build open-source tools for the commun
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=NeiveZ&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF4444&icon_color=FF4444&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeiveZ&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=FF4444&text_color=c9d1d9&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NeiveZ&theme=github-dark-blue&hide_border=true&background=0d1117&ring=FF4444&fire=FF4444&currStreakLabel=FF4444&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=6e7681)
-
-</div>
-
----
 
 ## Contato / Contact
 
